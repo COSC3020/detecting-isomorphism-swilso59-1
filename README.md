@@ -15,3 +15,10 @@ the function and run automatically when you commit through a GitHub action.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+## Answer
+
+For my algorithm the worst-case Big $\Theta$ time complexity is $\Theta()$.
+
+We can determine this by analysising the different parts of the algorithm.
+- 
